@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran|Lato|Roboto&display=swap');
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Catamaran', sans-serif; */
+
+
+
+:root {
+    --light-gray: #2b3032a1;
+    --primary-color: #45ccb8;
+    --border: #2b303218;
+    --text-color: #ff686b;
+    --roboto: "Roboto", sans-serif;
+}
+
+.primary-color{
+    color:var(--primary-color);
+}
+
+.bg-primary-color{
+    background-color: var(--primary-color) !important;
+}
+
+.text-color{
+    color: var(--text-color);
+}
+
+.lightblue{
+    color: lightblue;
+}
+
+.canvas{
+    transform: translate(540px, 100px);
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+    padding: 1px;
+}
+
+html{
+    font-family: 'Lato',sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-right: 60px;
+    transform: translateY(30px);
+}
+
+body{
+    background: #f0f0f0;
+}
+
+div{
+    transform: translateY(30px);
+    text-align: center;
+    margin-right: 60px;
+}
+
+.container{
+    
+}
+
+#scoree{
+    transform: translate(100px 100px);
+}
