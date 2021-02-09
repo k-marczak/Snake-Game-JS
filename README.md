@@ -15,6 +15,7 @@ This simple project is a popular snake game which was written in JavaScript.
 - CSS
 - JS
 - Canvas
+- p5
 
 ---
 
